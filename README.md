@@ -8,7 +8,7 @@
 
   <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://t.me/xlordxd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=780&lines=%E2%9A%A1+Telegram+Bot+Architect+%26+System+Engineer;%F0%9F%A4%96+Building+Ultra-Scalable+Bots+(10K%2B+Active+Users);%F0%9F%9A%80+Full-Stack+Cloud+Developer+%7C+Founder+%40+Alphabotz;%F0%9F%A7%A0+Creator+of+lectai.io+%E2%80%A2+AI+SaaS+Builder;%F0%9F%92%B3+Payment+Gateways+%26+Automated+Commerce+Bots;%F0%9F%8C%90+200%2B+Satisfied+Clients+Worldwide" alt="Adarsh Dubey Dynamic Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=780&lines=%E2%9A%A1+Telegram+Bot+Architect+%26+System+Engineer;%F0%9F%8E%B5+Creator+of+Vybe+Music+%E2%80%A2+Next-Gen+Android+Streaming;%F0%9F%A4%96+Building+Ultra-Scalable+Bots+(10K%2B+Active+Users);%F0%9F%9A%80+Full-Stack+Cloud+Developer+%7C+Founder+%40+Alphabotz;%F0%9F%A7%A0+Creator+of+lectai.io+%E2%80%A2+AI+SaaS+Builder;%F0%9F%8C%90+200%2B+Satisfied+Clients+Worldwide" alt="Adarsh Dubey Dynamic Title" />
   </a>
 
   <br/><br/>
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Instagram-@theworldhelpline-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://t.me/xlordxd">
-      <img src="https://img.shields.io/badge/Status-🟢%20Open%20For%20Projects-10B981?style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-🟢%20Building%20Vybe%20Music-10B981?style=for-the-badge" alt="Status" />
     </a>
   </p>
 </div>
@@ -46,7 +46,7 @@
 │  Handle       :  @adarshdubey-alphabotz // @xlordxd                   │
 │  Location     :  Jharkhand, India 🇮🇳                                  │
 │  Organization :  Founder @ Alphabotz                                  │
-│  Mission      :  Architecting bulletproof bots & high-impact AI SaaS   │
+│  Mission      :  Building Vybe Music, Scalable Bots & AI Platforms     │
 │  Track Record :  200+ Delivered Systems • 10K+ Daily Bot Users        │
 │  Core SLA     :  99.9% Production Reliability                         │
 │  Philosophy   :  "I don't build demos. I engineer production systems." │
@@ -60,6 +60,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🎵 Android &amp; Audio Engineering (Vybe Music)</h3>
+      <ul>
+        <li><b>Next-Gen Streaming:</b> Built with Kotlin, Jetpack Compose, and Media3 ExoPlayer with background playback &amp; lockscreen integration.</li>
+        <li><b>Apple Music Polish:</b> Ambient mesh lighting, 320kbps Lossless badge, and real-time karaoke synchronized lyrics (LRCLIB).</li>
+        <li><b>Spotify Jam Engine:</b> Real-time collaborative group listening rooms with synchronized playback and shared queues.</li>
+        <li><b>High-Res Audio:</b> 320kbps AAC streaming with global &amp; regional music language support.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h3>🤖 Ultra-Scalable Telegram Bots</h3>
       <ul>
         <li><b>High-Throughput Concurrency:</b> Engineered for 10,000+ active users with instant responsiveness and sub-second execution.</li>
@@ -68,6 +77,8 @@
         <li><b>Anti-Abuse &amp; Protection:</b> Rate-limiting, anti-flood algorithms, session persistence, and multi-tier admin control panels.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 AI SaaS Platforms &amp; Workflows</h3>
       <ul>
@@ -77,8 +88,6 @@
         <li><b>Modern SaaS Architecture:</b> Multi-tenant authentication, usage meters, credit wallets, and cloud deployment.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ Full-Stack &amp; Cloud Systems</h3>
       <ul>
@@ -86,15 +95,6 @@
         <li><b>Asynchronous Backends:</b> Node.js and FastAPI microservices designed for high concurrency, low latency, and clean modular code.</li>
         <li><b>Caching &amp; State:</b> Redis caching layers, WebSocket real-time channels, and database optimization for PostgreSQL &amp; MongoDB.</li>
         <li><b>Containerized Deployments:</b> Dockerized workflows, Cloudflare edge security, and automated continuous delivery.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 FinTech &amp; Automation Infrastructure</h3>
-      <ul>
-        <li><b>ClusterPay:</b> Unified multi-gateway payment orchestration layer for fiat and cryptocurrency assets.</li>
-        <li><b>Instant Webhook Handling:</b> Idempotent transaction processing, signature verification, and ledger reconciliation.</li>
-        <li><b>Security-First Mindset:</b> Zero-trust token management, encrypted secrets storage, and rigorous API validation.</li>
-        <li><b>Scalable Architecture:</b> Horizontal scalability built to transition smoothly from 10 users to 100,000+.</li>
       </ul>
     </td>
   </tr>
@@ -105,9 +105,9 @@
 ### 🛠️ Tech Arsenal &amp; Battle-Tested Stack
 
 <div align="center">
-  <p><b>Languages &amp; Core Runtimes</b></p>
+  <p><b>Mobile, Languages &amp; Core Runtimes</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css,bash" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,ts,js,py,cpp,bash" alt="Languages" />
   </a>
 
   <br/><br/>
@@ -136,10 +136,10 @@
 
 <div align="center">
   <!-- Key Ecosystem Badges -->
+  <img src="https://img.shields.io/badge/Android_Media3_ExoPlayer-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Media3" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
   <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
 </div>
 
@@ -179,6 +179,11 @@
 <table>
   <tr>
     <td width="33%" align="center">
+      <h3>🎵 Vybe Music</h3>
+      <p>Next-gen Android native music app featuring Apple Music aesthetics, YouTube Music discovery &amp; Spotify Jam rooms.</p>
+      <a href="https://github.com/adarshdubey-alphabotz/vybemusic"><b>Explore Repository →</b></a>
+    </td>
+    <td width="33%" align="center">
       <h3>🚀 lectai.io</h3>
       <p>AI presentation maker that generates polished, high-converting slide decks from prompts in seconds.</p>
       <a href="https://lectai.io"><b>Visit Platform →</b></a>
@@ -187,11 +192,6 @@
       <h3>⚡ ClusterPay</h3>
       <p>Unified payment gateway engine designed for frictionless fiat &amp; crypto transactions.</p>
       <a href="https://github.com/adarshdubey-alphabotz/clusterpay"><b>Explore Repo →</b></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 Alphabotz Suites</h3>
-      <p>Custom production-grade Telegram bot ecosystems serving 10,000+ active users daily.</p>
-      <a href="https://t.me/xlordxd"><b>Request Bot Build →</b></a>
     </td>
   </tr>
 </table>
