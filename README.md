@@ -1,14 +1,14 @@
 <div align="center">
-  <!-- Futuristic Cyberpunk Banner -->
+  <!-- Futuristic Cyberpunk Hero Banner -->
   <a href="https://github.com/adarshdubey-alphabotz">
-    <img src="assets/banner.svg" alt="Adarsh Dubey - Alphabotz Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/adarshdubey-alphabotz/adarshdubey-alphabotz/main/assets/banner.svg" alt="Adarsh Dubey - Alphabotz Hero Banner" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- Dynamic Animated Typing Title -->
+  <!-- Dynamic Animated Typing Subtitle -->
   <a href="https://t.me/alter69x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=750&lines=%E2%9A%A1+Telegram+Bot+Architect+%26+System+Engineer;%F0%9F%A4%96+Building+Ultra-Scalable+Bots+(10K%2B+Active+Users);%F0%9F%9A%80+Full-Stack+Cloud+Developer+%7C+Founder+%40+Alphabotz;%F0%9F%A7%A0+Creator+of+lectai.io+%E2%80%A2+AI+SaaS+Builder;%F0%9F%92%B3+Payment+Gateways+%26+Automated+Commerce+Bots;%F0%9F%8C%90+200%2B+Satisfied+Clients+Worldwide" alt="Adarsh Dubey Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=780&lines=%E2%9A%A1+Telegram+Bot+Architect+%26+System+Engineer;%F0%9F%A4%96+Building+Ultra-Scalable+Bots+(10K%2B+Active+Users);%F0%9F%9A%80+Full-Stack+Cloud+Developer+%7C+Founder+%40+Alphabotz;%F0%9F%A7%A0+Creator+of+lectai.io+%E2%80%A2+AI+SaaS+Builder;%F0%9F%92%B3+Payment+Gateways+%26+Automated+Commerce+Bots;%F0%9F%8C%90+200%2B+Satisfied+Clients+Worldwide" alt="Adarsh Dubey Dynamic Title" />
   </a>
 
   <br/><br/>
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚡ System Telemetry & Mission Control
+### ⚡ System Telemetry &amp; Mission Control
 
 ```zsh
 ┌──(adarsh㉿alphabotz)-[~]
@@ -135,7 +135,7 @@
 <br/>
 
 <div align="center">
-  <!-- Key Tech Badges -->
+  <!-- Key Ecosystem Badges -->
   <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -169,7 +169,7 @@
 ### 🐍 Contribution Activity Matrix
 
 <div align="center">
-  <img src="assets/snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/adarshdubey-alphabotz/adarshdubey-alphabotz/main/assets/snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </div>
 
 ---
