@@ -7,7 +7,7 @@
   <br/><br/>
 
   <!-- Dynamic Animated Typing Subtitle -->
-  <a href="https://t.me/alter69x">
+  <a href="https://t.me/xlordxd">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&random=false&width=780&lines=%E2%9A%A1+Telegram+Bot+Architect+%26+System+Engineer;%F0%9F%A4%96+Building+Ultra-Scalable+Bots+(10K%2B+Active+Users);%F0%9F%9A%80+Full-Stack+Cloud+Developer+%7C+Founder+%40+Alphabotz;%F0%9F%A7%A0+Creator+of+lectai.io+%E2%80%A2+AI+SaaS+Builder;%F0%9F%92%B3+Payment+Gateways+%26+Automated+Commerce+Bots;%F0%9F%8C%90+200%2B+Satisfied+Clients+Worldwide" alt="Adarsh Dubey Dynamic Title" />
   </a>
 
@@ -18,16 +18,16 @@
     <a href="https://github.com/adarshdubey-alphabotz">
       <img src="https://komarev.com/ghpvc/?username=adarshdubey-alphabotz&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <a href="https://t.me/alter69x" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@alter69x-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <a href="https://t.me/xlordxd" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-@xlordxd-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="mailto:etrg9044@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Direct%20Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:admin@lectai.io">
+      <img src="https://img.shields.io/badge/Email-admin@lectai.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/alter69x" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@alter69x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <a href="https://instagram.com/theworldhelpline" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@theworldhelpline-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://t.me/alter69x">
+    <a href="https://t.me/xlordxd">
       <img src="https://img.shields.io/badge/Status-🟢%20Open%20For%20Projects-10B981?style=for-the-badge" alt="Status" />
     </a>
   </p>
@@ -43,7 +43,7 @@
 
 ╭─────────────────────────── IDENTITY MATRIX ───────────────────────────╮
 │  Engineer     :  Adarsh Dubey                                         │
-│  Handle       :  @adarshdubey-alphabotz // @alter69x                  │
+│  Handle       :  @adarshdubey-alphabotz // @xlordxd                   │
 │  Location     :  Jharkhand, India 🇮🇳                                  │
 │  Organization :  Founder @ Alphabotz                                  │
 │  Mission      :  Architecting bulletproof bots & high-impact AI SaaS   │
@@ -191,7 +191,7 @@
     <td width="33%" align="center">
       <h3>🤖 Alphabotz Suites</h3>
       <p>Custom production-grade Telegram bot ecosystems serving 10,000+ active users daily.</p>
-      <a href="https://t.me/alter69x"><b>Request Bot Build →</b></a>
+      <a href="https://t.me/xlordxd"><b>Request Bot Build →</b></a>
     </td>
   </tr>
 </table>
@@ -203,16 +203,16 @@
 <div align="center">
   <p>Looking for a high-concurrency Telegram bot, custom AI system, or scalable web architecture?</p>
 
-  <a href="https://t.me/alter69x" target="_blank">
-    <img src="https://img.shields.io/badge/Chat_on_Telegram-@alter69x-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/xlordxd" target="_blank">
+    <img src="https://img.shields.io/badge/Chat_on_Telegram-@xlordxd-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="mailto:etrg9044@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-etrg9044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:admin@lectai.io">
+    <img src="https://img.shields.io/badge/Send_an_Email-admin@lectai.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/alter69x" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@alter69x-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/theworldhelpline" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@theworldhelpline-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <br/><br/>
